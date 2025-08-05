@@ -1,0 +1,19 @@
+From: support@paypa1.com
+To: your.email@example.com
+
+Dear Valued Customer,
+
+We have noticed unusual login activity on your PayPal account. Your account has been temporarily restricted for your protection.
+
+To restore access, please verify your information immediately by clicking the link below:
+
+Verify Your Account
+
+If you do not verify your information within 24 hours, your account will be permanently suspended.
+
+Thank you for choosing PayPal.
+
+Sincerely,
+PayPal Security Team
+
+This is an automated message. Please do not reply.
