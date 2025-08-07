@@ -5,7 +5,7 @@ To perform a vulnerability assessment on a local system using Nessus Essentials 
 
 ## Tools Used:
 - Tenable Nessus Essentials
-- Windows 10
+- Windows 11
 
 ## Steps Performed:
 1. Installed and registered Nessus Essentials on a Windows machine.
