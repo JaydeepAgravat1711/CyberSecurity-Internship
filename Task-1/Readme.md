@@ -26,6 +26,4 @@ nmap -sS 10.0.2.0/24 -oN scan-result.txt
 ---
 
 ## ✅ Conclusion:
-The task successfully demonstrated the ability to identify and analyze a phishing email.  
-By examining sender details, suspicious links, and content inconsistencies, the phishing attempt was confirmed.  
-This exercise improved skills in detecting fraudulent emails, reinforcing the importance of vigilance in email security.
+The task successfully demonstrated the ability to identify and analyze a phishing email.By examining sender details, suspicious links, and content inconsistencies, the phishing attempt was confirmed.This exercise improved skills in detecting fraudulent emails, reinforcing the importance of vigilance in email security.
