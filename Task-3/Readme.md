@@ -20,5 +20,5 @@ To perform a vulnerability assessment on a local system using Nessus Essentials 
   - Scan dashboard showing 21 vulnerabilities.
   - Detailed view of the `SSL Certificate Cannot Be Trusted` issue.
 
-## Submission Summary:
+## Summary:
 This task demonstrates how Nessus Essentials can be used to assess local vulnerabilities, identify potential risks, and provide remediation suggestions. The findings are documented with screenshots and report exports.
