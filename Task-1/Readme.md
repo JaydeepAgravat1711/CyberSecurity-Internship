@@ -1,29 +1,27 @@
-# 📧 Phishing Email Analysis
+# 🔐 Cybersecurity Task 1 – Network Port Scanning
 
 ## 🎯 Objective:
-To learn how to identify phishing emails by examining sender details, suspicious links, and content inconsistencies, thereby improving email security awareness.
+To learn how to discover open ports on devices within a local network using **Nmap**, understand network exposure, and gain basic reconnaissance skills.
 
 ---
 
 ## 🛠 Tools Used:
-- Email client (with header and link inspection capabilities)
-- Screenshot utility for evidence capture
+- **Kali Linux** running on **VirtualBox**
+- **Nmap v7.95**
+- Terminal and `ip` command for IP range discovery
 
 ---
 
-## 📋 Email Details:
-- **Sender Address**: `support@paypa1.com` (fake domain resembling PayPal)
-- **Subject**: Unusual login activity – Account temporarily restricted
-- **Suspicious Indicators**:
-  - Urgent action required within 24 hours
-  - Link text mismatching actual URL
-  - Spelling/grammar inconsistencies
+## 📡 Local Network Details:
+- **IP Range Scanned**: `10.0.2.0/24`
+- **Scanning Method**: TCP SYN Scan (`nmap -sS`)
+- **Output File**: `scan-result.txt`
 
 ---
 
-## 📷 Evidence:
-- Screenshot of the phishing email included in `screenshots/` folder
-- `phishing_analysis.md` contains detailed breakdown of the findings
+## 📋 Command Executed:
+
+nmap -sS 10.0.2.0/24 -oN scan-result.txt
 
 ---
 
