@@ -27,6 +27,6 @@ To analyze a suspicious/phishing email sample, identify key phishing indicators,
 
 ---
 
-## 🔑 Outcome:
+## 🔑Outcome:
 - Improved awareness of phishing tactics and how to spot them.
 - Gained hands-on experience in email threat analysis.
