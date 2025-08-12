@@ -1,28 +1,33 @@
-# 🔐 Cybersecurity Task 1 – Network Port Scanning
+# 📧 Phishing Email Analysis
 
 ## 🎯 Objective:
-To learn how to discover open ports on devices within a local network using **Nmap**, understand network exposure, and gain basic reconnaissance skills.
+To learn how to identify phishing emails by examining sender details, suspicious links, and content inconsistencies, thereby improving email security awareness.
 
 ---
 
 ## 🛠 Tools Used:
-- **Kali Linux** running on **VirtualBox**
-- **Nmap v7.95**
-- Terminal and `ip` command for IP range discovery
+- Email client (with header and link inspection capabilities)
+- Screenshot utility for evidence capture
 
 ---
 
-## 📡 Local Network Details:
-- **IP Range Scanned**: `10.0.2.0/24`
-- **Scanning Method**: TCP SYN Scan (`nmap -sS`)
-- **Output File**: `scan-result.txt`
+## 📋 Email Details:
+- **Sender Address**: `support@paypa1.com` (fake domain resembling PayPal)
+- **Subject**: Unusual login activity – Account temporarily restricted
+- **Suspicious Indicators**:
+  - Urgent action required within 24 hours
+  - Link text mismatching actual URL
+  - Spelling/grammar inconsistencies
 
 ---
 
-## 📋 Command Executed:
+## 📷 Evidence:
+- Screenshot of the phishing email included in `screenshots/` folder
+- `phishing_analysis.md` contains detailed breakdown of the findings
 
-```bash
-nmap -sS 10.0.2.0/24 -oN scan-result.txt
+---
 
-## ✅ Conclusion
-The task successfully demonstrated the ability to identify and analyze a phishing email.By examining sender details, suspicious links, and content inconsistencies, the phishing attempt was confirmed.This exercise improved skills in detecting fraudulent emails, reinforcing the importance of vigilance in email security.
+## ✅ Conclusion:
+The task successfully demonstrated the ability to identify and analyze a phishing email.  
+By examining sender details, suspicious links, and content inconsistencies, the phishing attempt was confirmed.  
+This exercise improved skills in detecting fraudulent emails, reinforcing the importance of vigilance in email security.
