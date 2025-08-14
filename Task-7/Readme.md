@@ -1,4 +1,4 @@
-# 🛡️ Browser Extension Management – README
+# 🛡️ Browser Extension Management
 
 ## 🎯 Objective
 To review and manage installed browser extensions in Microsoft Edge to enhance security, privacy, and performance.
