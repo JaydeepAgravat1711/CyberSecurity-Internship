@@ -22,7 +22,7 @@ To review and manage installed browser extensions in Microsoft Edge to enhance s
 
 ## 📂 Files Included
 - **Browser_Extension_Summary.md** – Contains detailed findings and outcome of the extension review task.
-
+- **screenshots**.
 ---
 
 ## ✅ Conclusion
